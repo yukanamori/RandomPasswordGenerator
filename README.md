@@ -1,6 +1,8 @@
 # RandomPasswordGenerator
 
 [![build](https://github.com/yukanamori/RandomPasswordGenerator/actions/workflows/main.yml/badge.svg)](https://github.com/yukanamori/RandomPasswordGenerator/actions/workflows/main.yml)
+[![Swift Version Compatibility](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fyukanamori%2FRandomPasswordGenerator%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/yukanamori/RandomPasswordGenerator)
+[![Platform Compatibility](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fyukanamori%2FRandomPasswordGenerator%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/yukanamori/RandomPasswordGenerator)
 
 RandomPasswordGenerator is a Swift library for generating random passwords with specified length, character types, and excluded characters.
 
