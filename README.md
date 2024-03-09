@@ -25,7 +25,7 @@ dependencies: [
 ## Usage
 
 ```swift
-import Foundation
+import RandomPasswordGenerator
 
 // Create a new password generator
 let generator = RandomPasswordGenerator(length: 10, characterTypes: [.digits, .uppercase, .lowercase])
@@ -33,7 +33,7 @@ let generator = RandomPasswordGenerator(length: 10, characterTypes: [.digits, .u
 do {
     // Generate a random password
     let password = try generator.generate()
-    print(password)
+    print(password) // For example: "A3b7G9k2L1"
 } catch {
     print("An error occurred: \(error)")
 }
